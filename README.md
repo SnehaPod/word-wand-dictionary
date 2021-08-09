@@ -1,4 +1,8 @@
-# nuxt-vuex-app
+# WORD WAND DICTIONARY
+
+## Check out the live demo for the dictionary app
+
+https://word-wand-dictionary.herokuapp.com/
 
 ## Build Setup
 
